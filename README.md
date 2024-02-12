@@ -1,7 +1,7 @@
 # blog-app
 This is my Blogging application.
 React Blogging Application
-Welcome to the React Blogging Application! This application is a simple blogging platform built using React.js. It fetches data from the dummyjson API to provide a dynamic and realistic content showcase. Whether you are a blogger or a reader, this application offers an intuitive interface for creating and exploring blog posts.
+Welcome to the React Blogging Application! This application is a simple blogging platform built using React.js. It fetches data from the dummy JSON API to provide a dynamic and realistic content showcase. Whether you are a blogger or a reader, this application offers an intuitive interface for creating and exploring blog posts.
 
 ## Table of Contents
 # Features
@@ -23,7 +23,7 @@ To run the React Blogging Application locally, follow these steps:
 # Clone the repository:
 
 
-git clone https://github.com/your-username/react-blogging-app.git
+git clone https://github.com/ravikr126/react-blogging-app.git
 
 cd react-blogging-app
 
