@@ -18,7 +18,7 @@ const Navbar = () => {
                         <span className='navbar-brand-icon'>
                             <GiPapers />
                         </span>
-                        <span className='navbar-brand-txt font-rubik fw-5'>Blog.</span>
+                        <span className='navbar-brand-txt font-rubik fw-5'>Blogify</span>
                     </Link>
                 </div>
                 <div className='navbar-row flex align-center'>
