@@ -42,11 +42,11 @@ Follow these steps to run the Todo List App locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ravikr126/Blogify.git
+   git clone https://github.com/ravikr126/blogify.git
 
 2. **Move to code directory**:
    ```bash
-   cd Blogify
+   cd blogify
 
 3. **Install Dependencies**:
    ``` bash
