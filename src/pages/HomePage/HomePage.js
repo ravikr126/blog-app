@@ -33,7 +33,7 @@ const HomePage = () => {
       }}>
         <div className='container'>
           <div className='header-content text-center flex align-center justify-center flex-column text-white'>
-            <h1 className='text-uppercase header-title ls-2'>a beatuiful blog with no images required</h1>
+            <h1 className='text-uppercase header-title ls-2' id="tit">A beatuiful blog with no images required</h1>
             <form className='flex align-center justify-center' onSubmit={(e) => handleSearchResult(e)}>
               <div className='header-input-group flex align-stretch'>
                   <input type = "text" className='form-control fs-20' placeholder='Search here blog ...' onChange={(e) => handleSearchTerm(e)} />
